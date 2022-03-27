@@ -1,0 +1,7 @@
+This file should have pages 
+such as:-
+-dashboard display 
+ 
+Note: it should display all count such as users, admins, amount, present orders, and so on.
+
+

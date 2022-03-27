@@ -1,0 +1,7 @@
+**In this folder we need to have files and pages related to Profile**
+such as:-
+-profile display page.
+-profile editing file.
+
+Note:-
+it should be updated/edited only if current password is correct.

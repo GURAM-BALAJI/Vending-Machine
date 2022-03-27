@@ -1,0 +1,8 @@
+**In this folder you need to create cart files and pages**
+such as:-
+-Cart display page.
+-Quantity increase and decrese file.
+-Clear cart file.
+-Payment conformation page.
+-Payment file(For dedection of amount from wallet).
+-OTP page.

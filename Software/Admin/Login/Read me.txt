@@ -1,0 +1,8 @@
+This file should have pages 
+such as:-
+-login page.
+-Validation file.
+
+
+Note: There should not be sign up page.
+

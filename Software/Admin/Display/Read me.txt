@@ -1,0 +1,9 @@
+This file should have pages 
+such as:-
+-Display items which are in vending machine.
+-Add new product file.
+-Edit display items file.
+-Delete items file.
+
+Note:
+it should be added based on moters items.

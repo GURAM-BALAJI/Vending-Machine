@@ -1,0 +1,7 @@
+-In this folder you need to create files which are used in the entire pages.
+
+example:-
+
+Below navigation buttons (home,wallet,history,profile and settings) are used in all pages so we need to keep it like globle pages so that to reduse the code duplication.
+
+**All globle css code should be in this folder**

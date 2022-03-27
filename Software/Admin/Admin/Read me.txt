@@ -1,0 +1,10 @@
+This file should have pages 
+such as:-
+-Display admin page.
+-Add new admin page.
+-Add new admin file.
+-Edit admin page.
+-Edit admin file.
+-Delete admin file.
+
+

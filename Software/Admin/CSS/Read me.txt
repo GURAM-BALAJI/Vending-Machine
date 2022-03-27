@@ -1,0 +1,7 @@
+-In this folder you need to create files which are used in the entire pages.
+
+example:-
+
+Below left navigation buttons (dashboard,users,admins,history..etc) are used in all pages so we need to keep it like globle pages so that to reduse the code duplication.
+
+**All globle css code should be in this folder**

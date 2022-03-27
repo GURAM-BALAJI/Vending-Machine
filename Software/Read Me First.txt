@@ -1,0 +1,23 @@
+** This folder contains software of "VENDING MACHINE". **
+
+Note:-
+-> You need to write your name in every file which you write code.
+	- Author Name: Guram Balaji
+	- Created Date: 27/03/2022
+
+-> Write your name also in "Read me" file in the folder which your working on.
+	-it will be easy to identify who is wonking on what folder.
+
+-> Need to make sure only one member has to edit or create one folder.
+	Means two members should not work on one folder.
+	Example of folder: Profile,wallet,home and etc.
+
+-> I have used two terms for files and pages
+	  - Page indicate that the file will be displayed know as output (Ex: login page).
+	  - File indicate that it is background/ back end execution file, this cant be see has output but the result will be displayed (Ex: login validation file).
+
+-> You need to discuse, which folder you will be doing.
+
+Important point:
+* You should not edit others code or folder with out file authors permission.
+* Follow all coding guidlines to write code.

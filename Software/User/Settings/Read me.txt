@@ -1,0 +1,7 @@
+**In this folder we need to have files and pages related to settings**
+such as:-
+-Setting page.
+-Logout file.
+-Contact us page.
+-Contact us file.
+-Team members display page(About us).

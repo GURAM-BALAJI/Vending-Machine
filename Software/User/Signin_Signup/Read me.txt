@@ -1,0 +1,14 @@
+**In this folder we need to have files and pages related to Login and signup**
+such as:-
+-Login page.
+-Login validation file.
+-Register page.
+-Register file.
+-Forgot password page.
+-Forgot password file.
+
+Note:-
+You should take care of all conditions related to login and register.
+example:- 
+-if email or phone number is already present, it should not take the same details agian.
+-if username/password is worng it to get logined.

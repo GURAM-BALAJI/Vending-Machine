@@ -1,0 +1,10 @@
+**In this folder we need to have files and pages related to Home**
+such as:-
+-List of all items present in vending machine page.
+-Add to cart file.
+-Buy now file.
+
+Note: 
+-quantity should be related to quantity in vending machine.
+-Items should be not be added in to cart, if there is less quantity.
+-If there is zero quantity items should not be displayed.

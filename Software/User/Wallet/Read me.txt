@@ -1,0 +1,10 @@
+**In this folder we need to have files and pages related to Wallet**
+such as:-
+-Wallet page.
+-Wallet add amount page.
+-Add amount file using payment gateway.
+-Last transactions page.
+
+Note:-
+-Amount should not be added if payment is not successful.
+-It's enoff to display last 15 transaction.

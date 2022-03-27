@@ -1,0 +1,2 @@
+In this folder there should be all js files related to profile pages.
+This folder is created to avoied code duplication.

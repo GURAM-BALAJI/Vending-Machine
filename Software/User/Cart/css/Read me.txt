@@ -1,0 +1,2 @@
+-In this folder you need to create files which are used in the entire cart folder.
+**All local css code should be in this folder**
